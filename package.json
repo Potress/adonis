@@ -1,0 +1,22 @@
+{
+  "name": "adonis",
+  "version": "1.0.0",
+  "description": "adonis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Potress/adonis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Potress/adonis/issues"
+  },
+  "homepage": "https://github.com/Potress/adonis#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
